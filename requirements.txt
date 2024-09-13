@@ -10,7 +10,7 @@ plotly
 wordcloud
 nltk
 nlpaug
-altchart
+altair
 emoji
 sentence-transformers
 lxml
