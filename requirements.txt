@@ -1,0 +1,17 @@
+streamlit
+streamlit_carousel
+numpy
+pandas 
+scikit-learn
+imblearn
+matplotlib
+seaborn 
+plotly
+wordcloud
+nltk
+nlpaug
+altchart
+emoji
+sentence-transformers
+lxml
+openpyxl
