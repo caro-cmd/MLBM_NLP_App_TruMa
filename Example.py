@@ -38,7 +38,7 @@ with st.expander('**Supervised Machine Learning**', expanded=True):
     with tab1:
         col1, col2 = st.columns([0.1, 0.9])
         with col2:
-            st.image('upload_separated_data.png', width=500, caption='Upload separated data and choose train data, test data, target and text column',)
+            st.image('Project/NLP_App_TruMa/MLBM_NLP_App_TruMa/Upload_separated_data.png', width=500, caption='Upload separated data and choose train data, test data, target and text column',)
     with tab2:
         col1, col2 = st.columns([0.1, 0.9])
         with col2:
